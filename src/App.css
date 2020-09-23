@@ -61,7 +61,6 @@ em {
 }
 
 .grey-buttons {
-  margin: 0 20px 0 0;
   background-color: #f9fafb;
   color: var(--grey);
   border: 0.5px var(--light-grey) solid;
@@ -70,4 +69,8 @@ em {
   width: 100%;
   font-weight: 700;
   font-size: 17px;
+}
+
+.left-button {
+  margin-right: 20px;
 }

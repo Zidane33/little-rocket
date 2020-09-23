@@ -50,7 +50,7 @@ const DonationBox = () => {
         <em>{`Why give $${donation}?`}</em>
       </div>
       <div className="button-container">
-        <button className="grey-buttons">Save for later</button>
+        <button className="grey-buttons left-button">Save for later</button>
         <button className="grey-buttons">Tell your friends</button>
       </div>
     </>
