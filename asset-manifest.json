@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/little-rocket/static/css/main.ea4f8212.chunk.css",
-    "main.js": "/little-rocket/static/js/main.6241f43d.chunk.js",
-    "main.js.map": "/little-rocket/static/js/main.6241f43d.chunk.js.map",
+    "main.css": "/little-rocket/static/css/main.7ea63a6e.chunk.css",
+    "main.js": "/little-rocket/static/js/main.c0df3cad.chunk.js",
+    "main.js.map": "/little-rocket/static/js/main.c0df3cad.chunk.js.map",
     "runtime-main.js": "/little-rocket/static/js/runtime-main.d8211c98.js",
     "runtime-main.js.map": "/little-rocket/static/js/runtime-main.d8211c98.js.map",
     "static/js/2.01cf3053.chunk.js": "/little-rocket/static/js/2.01cf3053.chunk.js",
     "static/js/2.01cf3053.chunk.js.map": "/little-rocket/static/js/2.01cf3053.chunk.js.map",
     "index.html": "/little-rocket/index.html",
-    "precache-manifest.999201d10b328f77303ccfff9632904e.js": "/little-rocket/precache-manifest.999201d10b328f77303ccfff9632904e.js",
+    "precache-manifest.c8bd501086f3b2b5ee6e2a4a6c6d648d.js": "/little-rocket/precache-manifest.c8bd501086f3b2b5ee6e2a4a6c6d648d.js",
     "service-worker.js": "/little-rocket/service-worker.js",
-    "static/css/main.ea4f8212.chunk.css.map": "/little-rocket/static/css/main.ea4f8212.chunk.css.map",
+    "static/css/main.7ea63a6e.chunk.css.map": "/little-rocket/static/css/main.7ea63a6e.chunk.css.map",
     "static/js/2.01cf3053.chunk.js.LICENSE.txt": "/little-rocket/static/js/2.01cf3053.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8211c98.js",
     "static/js/2.01cf3053.chunk.js",
-    "static/css/main.ea4f8212.chunk.css",
-    "static/js/main.6241f43d.chunk.js"
+    "static/css/main.7ea63a6e.chunk.css",
+    "static/js/main.c0df3cad.chunk.js"
   ]
 }
