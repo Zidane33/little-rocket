@@ -13,6 +13,7 @@ const DonationBox = () => {
     if (donation > amountNeeded) {
       setDonation(amountNeeded);
       setAmountNeeded(0);
+      return
     }
 
     setDonors(donors + 1);

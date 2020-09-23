@@ -66,4 +66,15 @@ describe("test events", () => {
     );
     expect(donors).toHaveTextContent("43");
   });
+
+  test("amount needed does not go below 0 if donatoin is greater than amount needed", () => {
+    const { getByText, getByDisplayValue } = render(<App />);
+    const amountNeeded = getByText("$500 still needed for this project");
+    const input = getByDisplayValue("50");
+    fireEvent.change(input, { target: { value: 600 } });
+    fireEvent.click(getByText("Give Now"));
+    expect(amountNeeded).toHaveTextContent(
+      "0 still needed for this project"
+    );
+  });
 });
