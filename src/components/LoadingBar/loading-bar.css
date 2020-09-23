@@ -1,0 +1,13 @@
+.orange-bar {
+  background-color: #f9fafb;
+  width: 24em;
+  height: 1em;
+  border: 0.5px var(--light-grey) solid;
+  margin: auto;
+}
+
+.bar {
+  width: var(--bar);
+  background-color: var(--orange);
+  height: 1em;
+}
